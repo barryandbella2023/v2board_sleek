@@ -3,7 +3,7 @@ window.config = {
   theme: true,
 
   // 后端网址配置
-  hostUrl: 'https://your-backend-domain.com/',
+  hostUrl: 'https://ad.hy2.lol/',
   title: 'Sleek Theme',
   title1: '快速高效与世界连接',
   title2: '快速,可靠,信赖',
